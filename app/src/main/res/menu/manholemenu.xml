@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addsuplier" android:title="Add Supplier"/>
+    <item android:id="@+id/unpaidcust" android:title="Unpaid Customer" />
+    <item android:id="@+id/inventorystatus" android:title="Inventory Status" />
+    <item android:id="@+id/productlist" android:title="Product list"/>
+    <item android:id="@+id/invoice" android:title="Invoice" />
+    <item android:id="@+id/share" android:title="share" />
+</menu>

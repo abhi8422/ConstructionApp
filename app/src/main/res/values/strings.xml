@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConstructionApp</string>
+    <string name="title_activity_flash">FlashActivity</string>
+    <string name="site_name">Site Name</string>
+    <string name="supervisor_name">Supervisor Name</string>
+    <string name="next">Next</string>
+    <string-array name="material_array">
+        <item>Cement</item>
+        <item>Bricks</item>
+        <item>Stones</item>
+        <item>Sand</item>
+        <item>Steel</item>
+
+    </string-array>
+</resources>
